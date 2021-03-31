@@ -2,8 +2,8 @@
 
 Install
 
-1. [Angular CLI](https://github.com/angular/angular-cli) version 11..
-2. [YARN](https://classic.yarnpkg.com/en/docs/install/#mac-stable)  npm install --global yarn
+1. [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
+2. [YARN](https://classic.yarnpkg.com/en/docs/install/#mac-stable) using  `npm install --global yarn`
 
 
 
@@ -15,6 +15,11 @@ Run Main APP  `ng serve` for a dev server. Navigate to `http://localhost:2000/`.
 
 Run Shell APP  `ng serve --project shell` for a dev server. Navigate to `http://localhost:5000/`. 
 
-Run Shell APP  `ng serve --project mfe1` for a dev server. Navigate to `http://localhost:4000/`. 
+Run Mfe1 APP  `ng serve --project mfe1` for a dev server. Navigate to `http://localhost:4000/`. 
+
+
+## Ref
+
+https://www.angulararchitects.io/aktuelles/the-microfrontend-revolution-part-2-module-federation-with-angular/
 
 
