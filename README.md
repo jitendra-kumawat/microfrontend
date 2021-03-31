@@ -22,4 +22,8 @@ Run Mfe1 APP  `ng serve --project mfe1` for a dev server. Navigate to `http://lo
 
 https://www.angulararchitects.io/aktuelles/the-microfrontend-revolution-part-2-module-federation-with-angular/
 
+## In details
+
+https://github.com/angular-architects/module-federation-plugin/blob/main/packages/mf/tutorial/tutorial.md
+
 
