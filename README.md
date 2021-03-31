@@ -18,10 +18,3 @@ Run Shell APP  `ng serve --project shell` for a dev server. Navigate to `http://
 Run Shell APP  `ng serve --project mfe1` for a dev server. Navigate to `http://localhost:4000/`. 
 
 
-
-## Reference 
-https://www.angulararchitects.io/aktuelles/the-microfrontend-revolution-part-2-module-federation-with-angular/
-
-## Note-
-
-Exploration and Poc
